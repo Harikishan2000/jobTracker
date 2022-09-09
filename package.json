@@ -1,6 +1,6 @@
 {
-  "name": "jobify",
-  "version": "1.0.0",
+  "name": "job_track",
+  "version": "1.0.1",
   "description": "#### Track Your Job Search",
   "main": "index.js",
   "type": "module",
@@ -15,7 +15,7 @@
     "start": "concurrently --kill-others-on-fail \" npm run server\" \" npm run client\""
   },
   "keywords": [],
-  "author": "",
+  "author": "Harikishan",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^6.4.0",
@@ -42,4 +42,3 @@
     "node": "16.x"
   }
 }
- 
