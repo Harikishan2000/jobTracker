@@ -26,7 +26,8 @@ const Wrapper = styled.nav`
     display: flex;
     align-items: center;
   }
-  background: var(--white);
+  background: #efecec;
+  //background: var(--white);
   .btn-container {
     position: relative;
   }
